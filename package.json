@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "style": "stylus < src/style.styl > src/css/style.css"
+  },
+  "devDependencies": {
+    "stylus": "^0.64.0"
+  }
+}
